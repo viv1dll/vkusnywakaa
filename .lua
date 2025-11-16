@@ -10376,7 +10376,7 @@ end)
 
 addcmd("explorer", {"dex"}, function(args, speaker)
     notify("Loading", "Hold on a sec")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/viv1dll/dexexploererer/refs/heads/main/.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MassiveHubs/loadstring/refs/heads/main/DexXenoAndRezware"))()
 end)
 
 addcmd('olddex', {'odex'}, function(args, speaker)
